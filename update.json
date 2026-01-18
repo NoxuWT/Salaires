@@ -4,6 +4,9 @@
   "changelog": [
     "Fixed payment calculation bug",
     "Added new boost system",
-    "Improved performance"
-  ]
+    "Improved performance",
+    "Added update checker feature"
+  ],
+  "release_date": "2024-01-15",
+  "minecraft_versions": ["1.16.5", "1.17", "1.18", "1.19", "1.20", "1.21"]
 }
